@@ -1,0 +1,10 @@
+# Ignore IntelliJ IDEA files
+.idea
+*.iml
+
+test-results.xml
+node_modules/
+bower_components/
+dist/*
+/.project
+.settings/
